@@ -1,0 +1,8 @@
+
+users-MacBook-Pro-5:~ user$ open /Users/user/Downloads/mysql-shell-1.0.11-macos10.13-x86-64bit.dmg
+Currently in JavaScript mode. Use \sql to switch to SQL mode and execute queries.
+mysql-js> \sql
+Switching to SQL mode... Commands end with ;
+mysql-sql> 
+
+
