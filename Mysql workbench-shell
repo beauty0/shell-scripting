@@ -1,0 +1,24 @@
+
+users-MacBook-Pro-5:~ user$ brew cask install mysqlworkbench
+==> Tapping caskroom/cask
+Cloning into '/usr/local/Homebrew/Library/Taps/caskroom/homebrew-cask'...
+remote: Counting objects: 3996, done.
+remote: Compressing objects: 100% (3974/3974), done.
+remote: Total 3996 (delta 36), reused 499 (delta 18), pack-reused 0
+Receiving objects: 100% (3996/3996), 1.37 MiB | 846.00 KiB/s, done.
+Resolving deltas: 100% (36/36), done.
+Checking out files: 100% (3981/3981), done.
+Tapped 0 formulae (4,005 files, 4.3MB)
+==> Creating Caskroom at /usr/local/Caskroom
+==> We'll set permissions properly so we won't need sudo in the future
+Password:
+==> Sorry, try again.
+Password:
+==> Satisfying dependencies
+==> Downloading https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbenc
+######################################################################## 100.0%
+==> Verifying checksum for Cask mysqlworkbench
+==> Installing Cask mysqlworkbench
+==> Moving App 'MySQLWorkbench.app' to '/Applications/MySQLWorkbench.app'.
+🍺  mysqlworkbench was successfully installed!
+users-MacBook-Pro-5:~ user$ 
